@@ -1,5 +1,9 @@
 # Clueless Homebrew tap
 
+[![Download macOS DMG · Preview](https://img.shields.io/badge/Download%20macOS%20DMG%20%C2%B7%20Preview-24292F?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Kian-hdr/clueless/releases/download/v0.3.0/Clueless-0.3.0-arm64.dmg)
+
+[Download macOS DMG · Preview](https://github.com/Kian-hdr/clueless/releases/download/v0.3.0/Clueless-0.3.0-arm64.dmg) · [Project README](https://github.com/Kian-hdr/clueless)
+
 ```sh
 brew install --cask Kian-hdr/clueless/clueless
 ```
