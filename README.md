@@ -1,8 +1,6 @@
-# Clueless Homebrew tap
+<p align="center"><strong>Clueless Homebrew tap</strong></p>
 
-## Download
-
-<p>
+<p align="center">
 <a href="https://github.com/Kian-hdr/clueless/releases/download/v0.3.0/Clueless-0.3.0-arm64.dmg"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download for macOS"></a>
 </p>
 
