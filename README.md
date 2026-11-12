@@ -1,6 +1,12 @@
 <p align="center"><strong>Clueless Homebrew tap</strong></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Kian-hdr/clueless/2eca2d2bf5ec50eacd2bfbd09b2655dd2fd5252e/docs/images/icon.png" width="96" alt="Clueless app icon"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kian-hdr/clueless/9c05212ca6586c14011c0ab1850a7db9b009b775/docs/assets/App_Icon_Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kian-hdr/clueless/9c05212ca6586c14011c0ab1850a7db9b009b775/docs/assets/App_Icon_Default.png">
+    <img src="https://raw.githubusercontent.com/Kian-hdr/clueless/9c05212ca6586c14011c0ab1850a7db9b009b775/docs/assets/App_Icon_Default.png" width="96" alt="Clueless app icon">
+  </picture>
+</p>
 
 <p align="center">
 <a href="https://github.com/Kian-hdr/clueless/releases/download/v0.3.0/Clueless-0.3.0-arm64.dmg"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download for macOS"></a>
