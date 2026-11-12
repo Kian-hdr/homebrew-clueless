@@ -1,5 +1,7 @@
 <p align="center"><strong>Clueless Homebrew tap</strong></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Kian-hdr/clueless/2eca2d2bf5ec50eacd2bfbd09b2655dd2fd5252e/docs/images/icon.png" width="96" alt="Clueless app icon"></p>
+
 <p align="center">
 <a href="https://github.com/Kian-hdr/clueless/releases/download/v0.3.0/Clueless-0.3.0-arm64.dmg"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download for macOS"></a>
 </p>
